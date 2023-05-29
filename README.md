@@ -1,2 +1,2 @@
-# githubcopilot-alura
-Treinando githubcopilot
+//Curso Alura - Desenvolver um jogo de Pong
+
